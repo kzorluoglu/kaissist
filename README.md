@@ -20,7 +20,7 @@ This PhpStorm plugin integrates with **Ollama's Llama 3** model to generate **in
 ### **Steps**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/kzorluoglu/kaissist.git
    ```
 2. Open PhpStorm and navigate to **Settings > Plugins**.
 3. Click **"Install Plugin from Disk"** and select the downloaded plugin `.jar` file.
@@ -60,7 +60,7 @@ ref #12345: Added project initialization files and configuration settings.
 We welcome contributions! Feel free to open **Issues** and **Pull Requests** to enhance this project.
 
 ## 📜 License
-This project is licensed under the **Apache 2.0 License**.
+This project is licensed under the **MIT**.
 
 ## 📬 Contact
 For questions or suggestions, feel free to open an issue or reach out to `hello@d8devs.com`.
